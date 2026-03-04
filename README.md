@@ -79,8 +79,6 @@ Lab ini dapat dijalankan bersamaan dengan lab lain karena menggunakan port yang 
 
 | Lab | Container | Port |
 |-----|-----------|------|
-| SQL Injection | `lab-sqli` | `8080` |
-| XML Injection | `lab-xml` | `8081` |
 | XSS Injection | `lab-xss` | `8082` |
 
 ---
